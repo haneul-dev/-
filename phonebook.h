@@ -1,5 +1,5 @@
-#ifndef PHONEBOOKS_H
-#define PHONEBOOKS_H
+#ifndef PHONEBOOK_H
+#define PHONEBOOK_H
 
 // 연락처 구조체 정의
 typedef struct {
